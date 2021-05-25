@@ -1,0 +1,9 @@
+git commit -m "initial comment"
+git init
+git remote add <link>
+git push -u origin master
+git add <file>
+git status
+git add.
+git add all
+git push
